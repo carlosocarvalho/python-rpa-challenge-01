@@ -10,4 +10,4 @@
 
 ### On Running
 
-![Is running challenge image](./capture.gif)
+![Is running challenge image](capture.gif)
